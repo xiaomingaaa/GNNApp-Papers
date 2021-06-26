@@ -26,6 +26,10 @@
 
 + [Explainability techniques for graph convolutional
 networks](https://arxiv.org/pdf/1905.13686.pdf) CoRR 2019 
+
+## Causal Inference
++ [GitHub for machine learning](https://github.com/rguo12/awesome-causality-algorithms)
+
 ## Causal Inference on GNN
 + [Definition of ATE and CATE in Causal Inference](https://zhuanlan.zhihu.com/p/128536988)
 
