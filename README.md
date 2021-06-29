@@ -41,3 +41,6 @@ networks](https://arxiv.org/pdf/1905.13686.pdf) CoRR 2019
 
 + [Cxplain: Causal explanations for model interpretation under
 uncertainty](https://arxiv.org/pdf/1910.12336.pdf) NeurIPS 2019
+
+## Dataset of Fraud Detection
++ [https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv](https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv)
