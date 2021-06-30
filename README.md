@@ -26,6 +26,7 @@
 
 + [Explainability techniques for graph convolutional
 networks](https://arxiv.org/pdf/1905.13686.pdf) CoRR 2019 
++ [SafeGraph](https://github.com/safe-graph/graph-fraud-detection-papers) A github source for fraud detection
 
 ## Causal Inference
 + [GitHub for machine learning](https://github.com/rguo12/awesome-causality-algorithms)
