@@ -30,6 +30,8 @@ networks](https://arxiv.org/pdf/1905.13686.pdf) CoRR 2019
 
 + [tools of GNN explanation (GitHub)](https://github.com/RexYing/gnn-model-explainer/blob/master/train.py) A github source for fraud detection
 
++ [SubgraphX: an explanation model for GNN](https://github.com/divelab/DIG/blob/dig/benchmarks/xgraph/subgraphx.ipynb)
+
 ## Causal Inference
 + [GitHub for machine learning](https://github.com/rguo12/awesome-causality-algorithms)
 
@@ -50,4 +52,5 @@ uncertainty](https://arxiv.org/pdf/1910.12336.pdf) NeurIPS 2019
 
 ## Feature Engineering
 + [feature selector for raw data (xgb, tree model, lightgbm)](https://github.com/xiaomingaaa/feature-selector)
++ 
 + [standard process of risking control](https://zhuanlan.zhihu.com/p/90251922)
