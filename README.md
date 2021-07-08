@@ -47,4 +47,7 @@ uncertainty](https://arxiv.org/pdf/1910.12336.pdf) NeurIPS 2019
 
 ## Dataset of Fraud (Anomaly) Detection
 + [https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv](https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv)
-+ 
+
+## Feature Engineering
++ [feature selector for raw data (xgb, tree model, lightgbm)](https://github.com/xiaomingaaa/feature-selector)
++ [standard process of risking control](https://zhuanlan.zhihu.com/p/90251922)
