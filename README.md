@@ -8,7 +8,15 @@
 -->
 # GNNApp-Papers
 
-## Graph Anomaly Detection
+##  Risk-control (Anomaly Detection with Graph machine learning)
++ [Standard process of risking control with machine learning](https://zhuanlan.zhihu.com/p/90251922) *from Zhihu*
+
++ [Fraud Detection using Graph based feature](https://mp.weixin.qq.com/s/L-3c_EcRWHgvPOwFsGtYkw) *from TigherGraph*
+
++ [Application of Graph Neural Network in Payment Risk Control](https://mp.weixin.qq.com/s/uCWvOG7Nq175WhD4u4vuTQ) *from eBay*
+
++ [Application of ML in fraud detection](https://city.boolan.com/2021ML.pdf) *from eBay*
+
 + [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://arxiv.org/abs/2106.07178)
 
 + [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](https://ieeexplore.ieee.org/document/8970829) ICDM 2019
@@ -16,6 +24,9 @@
 + [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/pdf/1908.10679.pdf) CIKM 2019
 
 + [Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters](https://dl.acm.org/doi/10.1145/3340531.3411903) CIKM 2020
+
++ [Graph-based Fraud Detection Papers and Resources](https://github.com/safe-graph/graph-fraud-detection-papers) *from GitHub*
+
 
 ## Interpretability (GNN-based, machine learning based)
 + [Explainable Fraud Detection](https://www.aboutwayfair.com/2020/12/explainable-fraud-detection/). This blog introduces various explanable methods based on machine learning to aplly them into fraud detection. 
@@ -34,7 +45,7 @@ networks](https://arxiv.org/pdf/1905.13686.pdf) CoRR 2019
 + [SubgraphX: an explanation model for GNN](https://github.com/divelab/DIG/blob/dig/benchmarks/xgraph/subgraphx.ipynb)
 
 ## Causal Inference
-+ [GitHub for machine learning](https://github.com/rguo12/awesome-causality-algorithms)
++ [ machine learning](https://github.com/rguo12/awesome-causality-algorithms)
 
 ## Causal Inference on GNN
 + [Definition of ATE and CATE in Causal Inference](https://zhuanlan.zhihu.com/p/128536988)
@@ -53,8 +64,7 @@ uncertainty](https://arxiv.org/pdf/1910.12336.pdf) NeurIPS 2019
 
 + [Graph fraud datasets](https://www.cc.gatech.edu/~srijan/)
 
-+ [SafeGraph including datasets](https://github.com/safe-graph/graph-fraud-detection-papers) A github source for fraud detection
++ [Graph fraud datasets, fraud datasets with ML and related papers](https://github.com/safe-graph/graph-fraud-detection-papers) A github source for fraud detection
 ## Feature Engineering
 + [feature selector for raw data (xgb, tree model, lightgbm)](https://github.com/xiaomingaaa/feature-selector)
 
-+ [standard process of risking control](https://zhuanlan.zhihu.com/p/90251922)
