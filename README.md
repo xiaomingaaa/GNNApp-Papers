@@ -44,8 +44,8 @@ networks](https://arxiv.org/pdf/1905.13686.pdf) CoRR 2019
 
 + [SubgraphX: an explanation model for GNN](https://github.com/divelab/DIG/blob/dig/benchmarks/xgraph/subgraphx.ipynb)
 
-## Causal Inference
-+ [ machine learning](https://github.com/rguo12/awesome-causality-algorithms)
+## Causal Inference (evaluate feature importance)
++ [Causal Inference for machine learning](https://github.com/rguo12/awesome-causality-algorithms)
 
 ## Causal Inference on GNN
 + [Definition of ATE and CATE in Causal Inference](https://zhuanlan.zhihu.com/p/128536988)
