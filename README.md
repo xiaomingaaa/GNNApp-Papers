@@ -17,17 +17,17 @@
 
 + [Application of ML in fraud detection](https://city.boolan.com/2021ML.pdf) *from eBay*
 
-+ [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://arxiv.org/abs/2106.07178)
++ [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://arxiv.org/abs/2106.07178) *Preprint*
 
-+ [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](https://ieeexplore.ieee.org/document/8970829) ICDM 2019
++ [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](https://ieeexplore.ieee.org/document/8970829) *ICDM 2019*
 
-+ [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/pdf/1908.10679.pdf) CIKM 2019
++ [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/pdf/1908.10679.pdf) *CIKM 2019*
 
-+ [Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters](https://dl.acm.org/doi/10.1145/3340531.3411903) CIKM 2020
++ [Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters](https://dl.acm.org/doi/10.1145/3340531.3411903) *CIKM 2020*
 
 + [Graph-based Fraud Detection Papers and Resources](https://github.com/safe-graph/graph-fraud-detection-papers) *from GitHub*
 
-
++ [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989) *WWW 2021 (Ali-ant)*
 ## Interpretability (GNN-based, machine learning based)
 + [Explainable Fraud Detection](https://www.aboutwayfair.com/2020/12/explainable-fraud-detection/). This blog introduces various explanable methods based on machine learning to aplly them into fraud detection. 
 
