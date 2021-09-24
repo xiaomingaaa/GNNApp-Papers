@@ -68,3 +68,5 @@ uncertainty](https://arxiv.org/pdf/1910.12336.pdf) NeurIPS 2019
 ## Feature Engineering
 + [feature selector for raw data (xgb, tree model, lightgbm)](https://github.com/xiaomingaaa/feature-selector)
 
+## Industry Solutions
++ []
